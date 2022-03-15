@@ -13,8 +13,8 @@ The prerequisites was only to complete the previous lessons so that we amy have 
 # Authors
 christian biringanine
 
-GitHub: @christianbiring1
-Twitter: @christianbirin4
+GitHub: [hander]github.com/christianbiring1
+Twitter: [handler]twitter.com/christianbiringan4
 LinkedIn: LinkedIn
 
 # Show your support
